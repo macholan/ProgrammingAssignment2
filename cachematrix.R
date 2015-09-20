@@ -1,4 +1,8 @@
-## The following two functions can be used to cache the inverse of a matrix "x".
+###########################################
+## R PROGRAMMING ASSIGNMENT 2 - MACHOLAN ##
+###########################################
+
+##The following two functions can be used to cache the inverse of a matrix "x".
 
 ## The first function sets the value of the matrix "x", gets the value of "x",
 ## sets the value of the inverse of "x" and gets the value of the inverse of "x".
